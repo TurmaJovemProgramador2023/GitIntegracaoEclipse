@@ -6,5 +6,6 @@ public class TesteIntegracaoGitHub {
 		// TODO Auto-generated method stub
 		System.out.println("Teste GItHub Eclipse");
 		System.out.println("Fazendo primeira Alteração");
+		System.out.println("Fazendo primeira Alteração");
 	}
 }
