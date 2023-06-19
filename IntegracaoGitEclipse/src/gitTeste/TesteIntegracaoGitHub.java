@@ -7,5 +7,6 @@ public class TesteIntegracaoGitHub {
 		System.out.println("Teste GItHub Eclipse");
 		System.out.println("Fazendo primeira Alteração");
 		System.out.println("Fazendo primeira Alteração");
+		System.out.println("Fazendo quarta Alteração");
 	}
 }
